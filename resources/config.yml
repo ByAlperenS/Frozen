@@ -1,0 +1,11 @@
+---
+frozen-attack: 1
+frozen-attack-delay: 2
+frozen-tip: "&bOhh, very cold..."
+#
+# Biome Ids  (https://github.com/pmmp/PocketMine-MP/blob/stable/src/data/bedrock/BiomeIds.php)
+biomes:
+  - 5
+  - 12
+  - 13
+...
