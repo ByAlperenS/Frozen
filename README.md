@@ -3,7 +3,7 @@
 _Freezes the player at night, midnight and sunrise in the biomes specified in the config_
 
 ## NOTE:
-_If you want the plugin to run smoothly, install the package named 'resources/Frozen.mcpack' on your server_
+_If you want the plugin to run smoothly, install the pack named 'resources/Frozen.mcpack' on your server_
 
 ### Features:
 * Custom freeze animation overlaying the screen
