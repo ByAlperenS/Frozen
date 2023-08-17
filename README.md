@@ -1,4 +1,5 @@
 # Frozen
+[![](https://poggit.pmmp.io/shield.state/Frozen)](https://poggit.pmmp.io/p/Frozen)
 ---
 _Freezes the player at night, midnight and sunrise in the biomes specified in the config_
 
